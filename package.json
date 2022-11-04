@@ -1,0 +1,15 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "A project to get city from a user and display the temperature in that city",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ria Jindal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
